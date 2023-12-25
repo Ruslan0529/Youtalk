@@ -103,6 +103,10 @@ main {
   background: white;
 }
 
+.button-burger__svg {
+  background-color: rgba(0, 0, 0, 0);
+}
+
 .header__button-arrow {
   vertical-align: middle;
 }
