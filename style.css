@@ -95,7 +95,7 @@ button {
   height: 40px;
   width: 40px;
   border: none;
-  background: white;
+  background: rgba(0, 0, 0, 0);
 }
 
 .button-burger__svg {
