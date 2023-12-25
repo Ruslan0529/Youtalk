@@ -690,7 +690,7 @@ footer {
   }
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: black) {
   body {
     background-color: white;
   }
