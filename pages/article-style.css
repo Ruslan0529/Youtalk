@@ -1,6 +1,7 @@
 body {
   margin: 0px;
   color: #333333;
+  background-color: #ffffff;
 }
 
 button {
@@ -143,7 +144,7 @@ main {
   gap: 24px;
 }
 
-.section-upper__intro > * {
+.section-upper__intro>* {
   margin: 0px;
 }
 
@@ -274,7 +275,7 @@ main {
   background-repeat: no-repeat;
 }
 
-.section-middle__additional-container > * {
+.section-middle__additional-container>* {
   margin: 0px;
 }
 
@@ -283,7 +284,7 @@ main {
   flex-direction: column;
 }
 
-.materials-container > * {
+.materials-container>* {
   margin: 0px;
 }
 
@@ -292,7 +293,7 @@ main {
   gap: 24px;
 }
 
-.inner-container > * {
+.inner-container>* {
   margin: 0px;
 }
 
@@ -304,7 +305,7 @@ main {
   border-radius: 16px;
 }
 
-.section-middle__practice > * {
+.section-middle__practice>* {
   margin: 0px;
 }
 
@@ -340,7 +341,7 @@ main {
   background: rgba(3, 178, 165, 0.1);
 }
 
-.section-bottom__practice > * {
+.section-bottom__practice>* {
   margin: 0px;
 }
 
@@ -385,7 +386,7 @@ main {
   max-width: 384px;
 }
 
-.section-prefooter__content-card > * {
+.section-prefooter__content-card>* {
   margin: 0px;
 }
 
@@ -885,6 +886,7 @@ footer {
 
 /* Для экранов шириной 1440px */
 @media screen and (min-width: 1300px) {
+
   .header__container,
   .header__bottom-list,
   .section,
@@ -934,6 +936,7 @@ footer {
 
 /* Для экранов шириной 1024px */
 @media screen and (min-width: 1023px) and (max-width: 1300px) {
+
   .header__container,
   .header__bottom-list,
   .section,
@@ -1003,6 +1006,7 @@ footer {
 
 /* Для экранов шириной 768px */
 @media screen and (min-width: 767px) and (max-width: 1023px) {
+
   .header__container,
   .header__bottom-list,
   .section,
@@ -1083,6 +1087,7 @@ footer {
 
 /* Для экранов шириной 414px */
 @media screen and (min-width: 413px) and (max-width: 767px) {
+
   .header__container,
   .header__bottom-list,
   .section,
@@ -1210,6 +1215,7 @@ footer {
 
 /* Для экранов шириной 320px */
 @media screen and (min-width: 320px) and (max-width: 413px) {
+
   .header__container,
   .header__bottom-list,
   .section,
