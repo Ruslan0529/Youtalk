@@ -219,7 +219,7 @@ main {
   background: #f3f7fe;
   line-height: 150%;
   font-size: 16px;
-  background-image: url(img/Vector.svg);
+  background-image: url(../img/Vector.svg);
   background-repeat: no-repeat;
   background-position: 24px 13px;
 }
@@ -269,7 +269,7 @@ main {
   font-style: italic;
   font-weight: 400;
   line-height: 150%;
-  background-image: url(img/spot.svg);
+  background-image: url(../img/spot.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -420,7 +420,7 @@ main {
 }
 
 .section-prefooter__image-container {
-  background-image: url(img/Prefooter-spot2.svg);
+  background-image: url(../img/Prefooter-spot2.svg);
   background-repeat: no-repeat;
   background-position: bottom;
   height: 415px;
@@ -460,7 +460,7 @@ main {
   align-items: center;
   gap: 24px;
   padding: 24px;
-  background-image: url(img/sidebar-vector.svg);
+  background-image: url(../img/sidebar-vector.svg);
   background-size: 60%;
   background-repeat: no-repeat;
   background-position: top;
@@ -469,7 +469,7 @@ main {
 
 .card-one__img {
   width: 100%;
-  background-image: url(img/sidebar-spot.svg);
+  background-image: url(../img/sidebar-spot.svg);
   background-size: 70%;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -641,7 +641,7 @@ main {
   text-align: center;
   border-radius: 16px;
   background-color: #2963a3;
-  background-image: url(img/confetti.png);
+  background-image: url(../img/confetti.png);
   background-repeat: no-repeat;
   background-size: 100%;
 }
